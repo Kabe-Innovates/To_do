@@ -21,7 +21,7 @@ A clean and minimal to-do list application built using HTML, CSS (Bootstrap), an
 - [Font Awesome](https://fontawesome.com/) for icons
 
 ## `index.html`
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
